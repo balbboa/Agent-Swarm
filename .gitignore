@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+.build/
+
+# Environments
+.venv/
+.venv*/
+.env
+.env.*
+.python-version
+
+# Editors/OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Caches
+.cache/
+.mypy_cache/
+
+# Project data
+/data/index/**
+/data/knowledge/html/**
+/data/tickets.jsonl
+/data/slack_outbox.jsonl
+
+# Containers
+*.log
+
+# Node (if any subtools)
+node_modules/

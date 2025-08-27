@@ -1,0 +1,638 @@
+Contrato de afiliação
+Descubra todas as nossas políticas e fique por dentro do universo InfinitePay
+Clique na cláusula
+desejada e tenha acesso ao conteúdo detalhado
+Em caso de dúvidas,
+converse com atendentes
+virtuais ou humanos
+Por este instrumento particular a
+CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVIÇOS LTDA.
+, com sede na Cidade de São Paulo, Estado de São Paulo, na Rua Eugênio de Medeiros 303, 15º e 16º andares, Conjunto 1501 C, Pinheiros,  CEP 05425-000, inscrita no CNPJ/MF sob o nº 18.189.547/0001-42 (“INFINITEPAY”) estabelece as cláusulas e condições para prestação de serviços de pagamento ao CLIENTE
+qualificado neste Contrato.
+Adesão ao contrato
+Para aderir ao presente CONTRATO o CLIENTE deverá enviar à INFINITEPAY todas as informações, documentos e realizar todos os procedimentos que vierem a ser demandados. Uma vez recebido o que for solicitado, a INFINITEPAY, a seu exclusivo critério, realizará as avaliações que entender pertinentes, de acordo com suas políticas internas, e poderá aprovar ou rejeitar a afiliação do CLIENTE. Se após referidas análises o cadastro do CLIENTE for rejeitado, a INFINITEPAY estornará o valor pago pela solução de pagamento contratada, e na hipótese de compra de EQUIPAMENTO, caso este já tenha sido entregue, o CLIENTE fará jus ao estorno mediante a restituição deste nas mesmas condições em que foi recebido e de acordo com orientações da INFINITEPAY.
+A INFINITEPAY, por qualquer meio, solicitará ao CLIENTE a documentação necessária à análise cadastral conforme suas políticas internas. Passados 20 dias da solicitação sem que tenha havido o devido e integral fornecimento, a INFINITEPAY poderá proceder ao cancelamento do processo de afiliação por pendência de documentos, independente de prévia comunicação, e estornará o valor pago pela solução de pagamento contratada, e na hipótese de compra de EQUIPAMENTO que já tenha sido entregue, o CLIENTE fará jus ao estorno se restituí-lo nas mesmas condições em que foi recebido e de acordo com orientações da INFINITEPAY.
+Se por qualquer razão a INFINITEPAY identificar atributos relativos ao CLIENTE em desacordo com as REGRAS DOS MEIOS DE PAGAMENTO, com suas políticas internas ou por quaisquer outras de suas diretrizes, ainda que após a aprovação do cadastro, poderá reconsiderar o ato e revogar a aprovação, sem a necessidade de justificativa, e o CONTRATO será rescindido. O valor pago pelo  EQUIPAMENTO ou pela ativação para o uso do serviço de LINK DE PAGAMENTO ou ainda para a utilização dos serviços prestados pela INFINITEPAY através de qualquer meio por ela oferecido, quando for o caso, poderá ser estornado ao CLIENTE de acordo com definições e a exclusivo critério da INFINITEPAY.
+‍
+Ao praticar qualquer tipo de ato com vistas a obter sua AFILIAÇÃO junto à INFINITEPAY, o CLIENTE declara ter lido e compreendido o conteúdo do presente CONTRATO, estando ciente de todos os termos e obrigações aqui estabelecidos, inclusive, mas não se limitando, as TAXAS, disponíveis para consulta em “
+Taxas
+”, cobradas pela prestação dos serviços da INFINITEPAY, com os quais expressamente concorda.
+Uma vez aprovado o cadastro, o CLIENTE deverá criar uma conta junto a INFINITEPAY, a ser acessada no APLICATIVO por meio de
+login
+e digitação do
+token
+que receberá por mensagem de texto no dispositivo cadastrado. A seu exclusivo critério, a INFINITEPAY poderá implementar, alterar ou acrescentar requisitos de autenticação de acesso do CLIENTE, como identificação facial ou biometria do representante legal cadastrado, dentre outros, em observância à regulação que versar sobre proteção de dados pessoais.
+‍
+O CLIENTE é exclusivamente responsável por garantir que as informações de acesso à sua conta na PLATAFORMA INFINITEPAY sejam mantidas em sigilo e utilizadas exclusivamente para os fins previstos neste CONTRATO. Caso o CLIENTE suspeite ou tome ciência de acesso à PLATAFORMA INFINITEPAY sem a sua autorização, deverá notificar imediatamente a INFINITEPAY e alterar sua senha de acesso. A INFINITEPAY não se responsabiliza por quaisquer problemas relacionados à inobservância do disposto nesta cláusula.
+1. Definições
+1.1.
+Para entendimento e interpretação deste CONTRATO são adotadas as seguintes definições, aplicáveis no singular e plural:
+‍
+ALUGUEL DE EQUIPAMENTO:
+valor mensal cobrado pela utilização dos EQUIPAMENTOS de propriedade da INFINITEPAY pelo CLIENTE, quando aplicável e de acordo com as condições específicas estabelecidas pela INFINITEPAY.
+ALUGUEL DE EQUIPAMENTO não será cobrado nos casos em que o CLIENTE adquirir e tornar-se proprietário do EQUIPAMENTO.
+APLICATIVO:
+aplicação de propriedade da INFINITEPAY e por ela disponibilizada, a ser instalada no dispositivo móvel cadastrado pelo CLIENTE, para acesso à PLATAFORMA INFINITEPAY.
+‍
+‍
+BANDEIRA:
+Instituidora do arranjo de pagamento responsável por regulamentar os usos e padrões operacionais e de segurança para realização de TRANSAÇÕES.
+‍
+CARTÃO:
+instrumento de pagamento apresentado sob a forma de cartão plástico ou qualquer meio eletrônico, disponibilizado pelos EMISSORES para uso pelos COMPRADORES como meio de pagamento.
+‍
+CHARGEBACK:
+contestação de uma TRANSAÇÃO por parte do COMPRADOR, que poderá resultar na não realização do repasse e/ou no abatimento do crédito já efetuado pela INFINITEPAY em favor do CLIENTE.CLIENTE: pessoa jurídica ou pessoa física responsável pela vendade bens ou serviços identificada no APLICATIVO, afiliada, nos termos do presente CONTRATO, para aceitação dos CARTÕES e realização de TRANSAÇÕES.
+‍
+COMPRADOR:
+pessoa física ou representante de pessoa jurídica portadora de CARTÃO autorizado a realizar as TRANSAÇÕES.
+‍
+CONTA DE PAGAMENTO:
+conta escritural de titularidade do CLIENTE mantida junto à INFINITEPAY - “CONTA”.
+‍
+CONTRATO:
+o presente Contrato de Afiliação de Estabelecimentos, seus respectivos anexos, aditivos e demais documentos constantes do APLICATIVO, que contemplam os termos e condições a serem observados para os serviços objeto deste instrumento.
+‍
+DOMICÍLIO:
+CONTA DE PAGAMENTO mantida pelo CLIENTE, podendo ser autorizado a exclusivo critério da INFINITEPAY, que a conta mantida em instituição financeira ou instituição de pagamento diversa, ou junto a INFINITEPAY, nos termos da regulamentação do Banco Central do Brasil, seja a conta para a qual serão efetivados os créditos e os débitos decorrentes da realização das TRANSAÇÕES e outras operações previstas neste CONTRATO.
+‍
+EMISSOR:
+instituição
+financeira ou de pagamento emissora de CARTÕES.
+‍
+EQUIPAMENTO:
+equipamento utilizado para captura de TRANSAÇÕES e emissão dos comprovantes de venda, abrangendo seus eventuais periféricos, assim entendidos os acessórios que permitem o seu funcionamento, tais como, exemplificativamente, fontes de alimentação de energia elétrica e cabos de conexão à rede de internet ou telefonia, os quais poderão ser disponibilizados ao CLIENTE pela INFINITEPAY ou por terceiros, ou, ainda, serem adquiridos pelo CLIENTE de fornecedores homologados pela INFINITEPAY.
+‍
+PIX:
+serviços de pagamento instantâneo. Transação de pagamento instantâneo no âmbito do arranjo de pagamentos instituído pelo Banco Central do Brasil.
+‍
+PLATAFORMA INFINITEPAY:
+ambiente disponibilizado pela INFINITEPAY acessível por meio do APLICATIVO para fornecimento de serviços, produtos e informações aos CLIENTES. Caso entenda necessário e cabível de acordo com suas políticas, a INFINITEPAY a seu exclusivo critério poderá disponibilizar outro(s) dispositivo(s) para acesso à PLATAFORMA INFINITEPAY.
+‍
+RECEBÍVEIS:
+valores líquidos devidos em razão das TRANSAÇÕES realizadas, após deduzidas todas as tarifas, taxas e encargos aplicáveis, inclusive a TAXA de antecipação estabelecida.
+‍
+REGRAS DO MERCADO DE MEIOS DE PAGAMENTO:
+regras e determinações estabelecidas pelas BANDEIRAS, práticas e usos de mercado, regras de autorregulação, normas e regulamentos emitidos pelas autoridades brasileiras, incluindo, mas sem limitação, o Conselho Monetário Nacional e o Banco Central do Brasil, bem como toda a legislação aplicável em âmbitos federal, estadual e municipal.
+TAP TO PHONE:
+solução que utiliza aparelhos com tecnologia NFC como meio de captura de TRANSAÇÕES(“contactless”) e emissão digital dos comprovantes de venda através da utilização de dispositivo móvel de propriedade do CLIENTE.
+‍
+TAXA:
+percentual incidente sobre o valor bruto das TRANSAÇÕES para remuneração dos serviços prestados pelas BANDEIRAS, EMISSORES e pela INFINITEPAY na captura, autorização, processamento e liquidação das TRANSAÇÕES, que poderá variar em função da modalidade de TRANSAÇÃO e/ou da BANDEIRA e/ou da data da liquidação e/ou do volume de TRANSAÇÕES realizadas pelo CLIENTE.
+‍
+TRANSAÇÃO:
+operação realizada por meio de EQUIPAMENTO, por meio eletrônico ou qualquer outro meio oferecido pela INFINITEPAY, desde que em conformidade com as regras do MERCADO DE MEIOS DE PAGAMENTO, em que o CLIENTE aceite CARTÃO, Pix ou qualquer outro meio aceito pela INFINITEPAY para pagamento pela venda de bens e/ou serviços.
+2. Objeto
+2.1.
+O objeto deste CONTRATO é a prestação, pela INFINITEPAY ao CLIENTE, de serviços consistentes na captura, roteamento, transmissão, processamento e liquidação de TRANSAÇÕES realizadas com CARTÕES ou qualquer outro meio oferecido pela INFINITEPAY, sem caráter de exclusividade.
+2.2.
+A INFINITEPAY não garante que seus serviços ficarão sem interrupção ou que estarão livres de erros, estando a prestação de serviços objeto deste CONTRATO sujeita a interrupções pontuais em razão de manutenções preventivas ou corretivas, reparos, falhas das concessionárias de serviços, intervenções de terceiros ou atos de força maior.  Desse modo, a INFINITEPAY não se responsabiliza por eventuais falhas, atrasos ou interrupções na prestação dos serviços ou por TRANSAÇÕES que deixem de ser realizadas durante os períodos de indisponibilidade.
+3. Alterações dos Termos e Condições
+3.1. A INFINITEPAY poderá, a qualquer tempo, alterar os termos e condições do presente CONTRATO, inclusive as condições comerciais aplicáveis, incluindo, sem se limitar, as taxas aplicadas pelos serviços por ela prestados, mediante simples comunicação ao CLIENTE, por meio físico ou eletrônico, inclusive notificação através da PLATAFORMA INFINITEPAY.
+3.2
+. Caso o CLIENTE não esteja de acordo com as alterações introduzidas pela INFINITEPAY, poderá, no prazo de dez dias contados da alteração, rescindir o presente CONTRATO mediante notificação por escrito à INFINITEPAY. A falta de manifestação do CLIENTE com relação às modificações no prazo aqui estabelecido será considerada concordância tácita.
+3.3.
+A INFINITEPAY poderá, a qualquer tempo, disponibilizar novos produtos ou serviços para utilização pelo CLIENTE, mediante simples comunicação por escrito ou por meio da PLATAFORMA INFINITEPAY. A utilização de quaisquer dos novos produtos pelo CLIENTE implicará a adesão automática do CLIENTE aos termos e condições específicas a eles aplicáveis. Sem prejuízo, para a oferta de novos produtos ou serviços, poderá a INFINITEPAY implementar regras específicas ou estabelecê-las em contrato apartado.
+4. Obrigações do Cliente
+4.1.
+O CLIENTE deverá, a todo tempo, cumprir fielmente os termos e condições do presente CONTRATO, as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO e a legislação aplicável, inclusive, mas sem limitação, as regras sobre prevenção e combate aos crimes de lavagem de dinheiro, ocultação de bens, de terrorismo e seu financiamento, repúdio à pirataria, bem como a colaborar de forma efetiva com as autoridades, órgãos de regulação e/ou de fiscalização, incluindo órgãos de defesa do consumidor, no fornecimento de dados e/ou informações, quando legalmente admitidos. Sem prejuízo de outras disposições, o CLIENTE deve obedecer a requisitos legais estabelecidos para sua devida organização e constituição, bem como disponibilizar somente produtos e/ou serviços permitidos pela legislação.
+4.2.
+Sempre que solicitado, o CLIENTE deverá apresentar prontamente à INFINITEPAY informações ou documentos que sejam necessários para que a INFINITEPAY possa atender a demandas das BANDEIRAS, de parceiros envolvidos na execução deste CONTRATO, ou de qualquer autoridade competente. A entrega intempestiva dos documentos solicitados pela INFINITEPAY ou a omissão, ainda que parcial, do CLIENTE em entregá-los poderá acarretar, a critério da INFINITEPAY, a suspensão total ou parcial da prestação dos serviços objeto deste CONTRATO e/ou a suspensão do repasse de créditos ao CLIENTE até a regularização.
+4.3.
+Somente poderão ser realizadas TRANSAÇÕES em moeda corrente nacional e nos ramos de atividade para os quais o CLIENTE tenha sido autorizado. As TRANSAÇÕES devem, necessariamente, refletir uma operação comercial entre o CLIENTE e o COMPRADOR, mediante compra e venda de produtos ou serviços, sendo vedada a realização de operações de qualquer outra natureza ou a realização de operações fictícias ou simuladas.
+4.3.1.
+A qualquer tempo, a INFINITEPAY poderá restringir a prestação dos serviços para venda de determinados bens ou serviços considerados inadequados ou indesejados de acordo com os seus critérios de avaliação, que levarão em conta as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO e as políticas de riscos da INFINITEPAY.
+4.3.2.
+A INFINITEPAY poderá ainda restringir a prestação dos serviços, em qualquer fase de sua execução, se constatadas TRANSAÇÕES em desconformidade com os ramos de atividade para os quais o CLIENTE tenha sido autorizado, de acordo com seus critérios de avaliação, que levarão em conta as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO e políticas internas da INFINITEPAY.
+4.3.3.
+Fica expressamente vedado qualquer tipo de conduta que, direta ou indiretamente, esteja ou possa estar relacionada (ainda que por suspeita) ao adiantamento de dinheiro/valores para o CLIENTE ou para terceiros; ao oferecimento de valores (utilizando o limite de crédito disponível do COMPRADOR) para pagamento de dívidas preexistentes ou pagamento de contas mensais; autofinanciamento; simulação; ao desmembramento  do preço de única venda em mais de uma transação com o mesmo cartão; lavagem de dinheiro; suborno; fraude contra credores; empréstimo; financiamento; comercialização de produtos ou prestação de serviços proibidos pela legislação vigente ou em desacordo com as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO, dentre outros.
+4.3.4.
+Por motivos de segurança, a INFINITEPAY poderá, a seu exclusivo critério, determinar o bloqueio da TRANSAÇÃO ou do repasse dela decorrente ou, ainda, o cancelamento e estorno da TRANSAÇÃO ou do valor que já tenha sido pago caso o CARTÃO utilizado pertença a parentes ou pessoas relacionadas a representantes ou responsáveis legais do CLIENTE, quando aplicável, ou caso suspeite da ocorrência de conduta(s) mencionada(s) em 4.3.3 acima.
+4.3.5.
+Independente de quem seja o COMPRADOR, a prática de qualquer dos atos acima poderá ensejar: (i) o imediato bloqueio do CLIENTE no ato da TRANSAÇÃO, e/ou (ii) a suspensão do repasse dos valores decorrentes da TRANSAÇÃO ou o abatimento do valor da TRANSAÇÃO caso o repasse já tenha sido realizado, o que em nenhuma hipótese será considerado descumprimento contratual por parte da INFINITEPAY, tampouco ensejará qualquer tipo de indenização ao CLIENTE. A INFINITEPAY poderá, ainda, a seu critério, rescindir de imediato o CONTRATO, independentemente da apuração dos fatos e fechamento conclusivo da situação.
+4.4.
+As TRANSAÇÕES realizadas através do EQUIPAMENTO ou pela solução TAP TO PHONE, devem ser realizadas com CARTÃO presente, podendo ou não ser necessária a digitação, pelo COMPRADOR, de sua senha pessoal. Em caso de utilização de
+link
+de pagamento, aplicar-se-á o descrito no tópico “
+LINK DE PAGAMENTO
+” deste CONTRATO.
+4.5.
+O comprovante de venda impresso pelo EQUIPAMENTO, quando aplicável, ou mediante arquivo eletrônico, e demais documentos que comprovem a realização da TRANSAÇÃO, como nota fiscal, deverão ser mantidos em arquivo pelo CLIENTE por, no mínimo, vinte e quatro meses, devendo ser apresentados à INFINITEPAY sempre que solicitado, sob pena de suspensão dos repasses de valores até sua apresentação.
+4.6.
+O CLIENTE é o único responsável por eventuais reclamações, demandas e indenizações de qualquer natureza decorrentes de sua atividade, bem como por quaisquer problemas de aceitação, quantidade, qualidade, entrega, garantia, preço ou inadequação dos bens e/ou serviços prestados, inclusive em caso de arrependimento por parte do COMPRADOR, se aplicável conforme legislação, devendo solucionar diretamente com o COMPRADOR toda e qualquer controvérsia.
+‍
+4.6.1.
+Caso a INFINITEPAY venha a ser de qualquer forma responsabilizada em ações judiciais, reclamações e/ou procedimentos extrajudiciais que digam respeito à relação entre o CLIENTE e o COMPRADOR, o CLIENTE desde já se compromete a indenizá-la integralmente, arcando diretamente com os custos de eventual condenação.
+‍
+4.7.
+O CLIENTE se obriga a reembolsar à INFINITEPAY quaisquer despesas incorridas pela INFINITEPAY para o cumprimento de ordens judiciais e/ou determinações de autoridades competentes com relação ao CLIENTE, incluindo, sem limitação, a realização de bloqueios, penhoras e arrestos, e quaisquer penalidades que venham a ser impostas à INFINITEPAY em razão do descumprimento de obrigações pelo CLIENTE.
+‍
+4.8.
+É vedada a utilização, pelo CLIENTE, de informações dos COMPRADORES para qualquer outra finalidade que não a efetivação de TRANSAÇÕES nos termos deste CONTRATO, salvo se houver deles autorização expressa e específica nesse sentido e observada a legislação de proteção de dados aplicável.
+‍
+4.9.
+É vedado ao CLIENTE utilizar quaisquer recursos ou tecnologia não homologados pela INFINITEPAY e/ou que venha a trazer riscos de fraude ou segurança para os sistemas e equipamentos da INFINITEPAY.
+‍
+4.10.
+O CLIENTE autoriza a INFINITEPAY a realizar vistorias a qualquer tempo, por si ou por terceiros, com vistas a certificar a regularidade de suas atividades e o adequado cumprimento das obrigações previstas neste CONTRATO. A realização de vistorias pela INFINITEPAY não implica, contudo, certificação de regularidade do CLIENTE para qualquer fim.
+‍
+4.11.
+O CLIENTE se obriga a comunicar à INFINITEPAY todas as informações relacionadas à negociação de recebíveis, incluindo, mas não se limitando a, contratos firmados com instituições não financeiras, conforme determinado pela regulamentação aplicável ao registro e negociação de recebíveis de arranjos de pagamentos.
+‍
+4.11.1.
+O CLIENTE desde já autoriza o envio das informações relativas a contratos de negociação de recebíveis de arranjo de pagamento realizados com instituições não financeiras para as registradoras.
+5. Alteração de Dados Cadastrais
+5.1.
+O CLIENTE deverá comunicar, no prazo máximo de dois dias úteis, quaisquer alterações em seus dados cadastrais, inclusive, mas sem limitação, quando relacionados à sua denominação, objeto, endereços, números de telefone, composição societária e representantes legais.  Ademais, de tempos em tempos o  CLIENTE deverá validar os dados cadastrais informados, para confirmação de sua veracidade e validade, inclusive mediante envio de documentos que venham a ser requeridos pela INFINITEPAY, sob pena de suspensão dos serviços, bem como dos repasses de valores devidos nos termos deste CONTRATO, até sua regularização.
+‍
+5.2.
+Em caso de alterações nas atividades exercidas pelo CLIENTE, ou à exclusivo critério da INFINITEPAY, poderá haver alteração nas taxas, tarifas e prazos praticados, sendo as novas condições comunicadas pela INFINITEPAY ao CLIENTE por escrito ou por meio da PLATAFORMA INFINITEPAY. Caso não esteja de acordo com as novas condições comerciais aplicáveis, o CLIENTE poderá rescindir o presente CONTRATO no prazo de dez dias das novas condições, sendo a ausência de manifestação do CLIENTE no prazo informado considerada concordância tácita com as novas condições comerciais.
+‍
+5.3.
+O presente CONTRATO poderá ser rescindido de imediato caso a INFINITEPAY entenda, a seu exclusivo critério, que as atividades exercidas pelo CLIENTE e/ou o resultado de alterações em seus dados cadastrais não sejam aderentes às regras das BANDEIRAS ou às políticas internas da INFINITEPAY. Alternativamente, a INFINITEPAY poderá restringir a realização de TRANSAÇÕES para venda de determinados bens ou serviços considerados inadequados ou indesejados.
+6. Equipamentos
+6.1.
+O CLIENTE poderá adquirir ou locar, conforme o caso, EQUIPAMENTOS da INFINITEPAY ou de terceiros homologados pela INFINITEPAY, conforme venha a ser acordado entre o CLIENTE e a INFINITEPAY.
+6.2.
+Em qualquer hipótese, despesas relativas à comunicação dos EQUIPAMENTOS, a solução TAP TO PHONE ou do APLICATIVO aos sistemas necessários ao uso da PLATAFORMA INFINITEPAY, como custos de conexão com a internet, despesas com telefonia, energia elétrica, entre outros, serão de responsabilidade do CLIENTE.
+6.3.
+Os EQUIPAMENTOS adquiridos pelo CLIENTE da INFINITEPAY serão de propriedade do CLIENTE e contarão com garantia total de 12 meses (90 dias de garantia legal e 275 dias de garantia contratual), e, caso apresentem qualquer problema de funcionamento, serão submetidos ao tratamento aplicável no prazo determinado pelo atendimento da INFINITEPAY, ressalvadas as hipóteses de mau uso.
+6.3.1.
+Após o prazo de garantia, o CLIENTE poderá contratar serviços de manutenção corretiva por meio do suporte técnico da INFINITEPAY.
+6.3.2.
+Os custos de manutenção corretiva após o prazo de garantia serão de responsabilidade do CLIENTE, que, desde já, autoriza a INFINITEPAY a compensar esses custos com os valores a serem repassados ao CLIENTE em razão das TRANSAÇÕES.
+6.4.
+Os EQUIPAMENTOS fornecidos por terceiros deverão observar os requisitos técnicos mínimos estabelecidos pela INFINITEPAY, de acordo com a legislação aplicável e as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO.
+6.4.1.
+O CLIENTE reconhece que a INFINITEPAY não terá qualquer responsabilidade com relação a EQUIPAMENTOS fornecidos por terceiros, devendo toda e qualquer questão relacionada aos EQUIPAMENTOS ser solucionada diretamente com o fornecedor contratado pelo CLIENTE.
+6.4.2.
+Em caso de alterações nos padrões adotados pela INFINITEPAY, o CLIENTE deverá adequar o funcionamento dos EQUIPAMENTOS por ele adquiridos e/ou locados de terceiros nos prazos e condições estabelecidos pela INFINITEPAY.
+6.5.
+Fica  vedada a cessão ou transferência dos EQUIPAMENTOS a terceiros, mesmo quando pertencentes ao mesmo grupo econômico do CLIENTE. O CLIENTE deverá utilizar os EQUIPAMENTOS em estrita conformidade com a legislação aplicável e conforme as instruções fornecidas pela INFINITEPAY.
+6.5.1.
+Na hipótese em que os EQUIPAMENTOS sejam locados pela INFINITEPAY, estes serão entregues no endereço do CLIENTE indicado, sendo vedada sua remoção para qualquer outro local.
+6.5.2.
+O CLIENTE reconhece que os EQUIPAMENTOS locados são propriedade da INFINITEPAY e se obriga a zelar por sua guarda, conservação e limpeza, protegendo-os contra danos, mau uso, destruição, intervenção, depredação, sinistros, violação, turbação, esbulho por terceiros, apreensão, remoção, penhora, arresto, bloqueio, lacre, confisco ou leilão por quaisquer órgãos ou autoridades.
+6.5.3.
+Caso identifique defeitos técnicos no EQUIPAMENTO locado, o CLIENTE deverá entrar em contato com o suporte técnico da INFINITEPAY, não devendo proceder à manutenção dos EQUIPAMENTOS por conta própria ou de terceiros, sendo vedada qualquer intervenção no EQUIPAMENTO sem  consentimento prévio e expresso da INFINITEPAY.
+6.5.4
+. Os custos relativos à manutenção, reparo ou substituição dos EQUIPAMENTOS locados serão repassados ao CLIENTE, caso o CLIENTE e/ou terceiros a ele relacionados tenham dado causa ao dano ou à necessidade de reparo ou substituição, inclusive nas hipóteses de furto, roubo ou perda total ou parcial do EQUIPAMENTO ou na ocorrência de eventos de caso fortuito ou de força maior.
+6.5.5
+. Em contraprestação pela locação dos EQUIPAMENTOS será devido o valor de ALUGUEL DE EQUIPAMENTO conforme previamente pactuado.  A INFINITEPAY poderá, a seu exclusivo critério e por mera liberalidade, isentar o CLIENTE do pagamento dos aluguéis por determinado período, conforme venha a ser acordado com o CLIENTE, podendo retomar as cobranças a qualquer tempo.
+6.5.6.
+Caso entenda necessário, o CLIENTE poderá requerer o fornecimento de EQUIPAMENTOS adicionais, que poderão ser disponibilizados a exclusivo critério da INFINITEPAY, de acordo com suas políticas internas e disponibilidade de estoque.
+6.5.7
+. Em eventual caso de locação, terminado o CONTRATO, por qualquer motivo, o CLIENTE se compromete a, no prazo máximo de cinco dias, devolver os EQUIPAMENTOS locados à INFINITEPAY no mesmo estado que os recebeu, ressalvado o desgaste natural pelo uso normal.
+6.5.8
+. A não devolução dos EQUIPAMENTOS nos prazos aqui estipulados constituirá o CLIENTE em mora de pleno direito, obrigando-se o CLIENTE a reembolsar à INFINITEPAY o valor de mercado integral dos EQUIPAMENTOS locados, sem prejuízo da cobrança dos valores de ALUGUEL DE EQUIPAMENTO proporcionais até que a INFINITEPAY seja devidamente reembolsada, sendo permitido à INFINITEPAY, em qualquer caso, reter ou compensar valores devido ao CLIENTE nos termos do CONTRATO.
+6.6.
+O CLIENTE poderá utilizar no EQUIPAMENTO softwares e aplicativos de sua propriedade ou de terceiros por ele contratados, desde que compatíveis com os sistemas da INFINITEPAY e por ela homologados e autorizados. O CLIENTE reconhece e concorda que os aplicativos cedidos ou inseridos nos EQUIPAMENTOS pela INFINITEPAY, de forma gratuita ou onerosa, são de titularidade da INFINITEPAY ou a ela licenciados por terceiros, sendo vedado ao CLIENTE ceder, copiar, alterar, modificar, adaptar, manipular, adicionar, descompilar, decompor ou efetuar qualquer conversão destes, sendo vedado também o uso de engenharia reversa ou sua utilização para fins diversos dos previstos no presente CONTRATO, sob pena de imediata rescisão do CONTRATO, sem prejuízo do ressarcimento por eventuais perdas e danos acarretados.
+6.7.
+O CLIENTE expressamente autoriza a INFINITEPAY a divulgar nos EQUIPAMENTOS e no APLICATIVO publicidade de terceiros, sob a forma de anúncios, frases, mensagens, marcas, sinais gráficos, hologramas e demais formas de comunicação.
+6.8
+. EQUIPAMENTOS vendidos ou locados pela INFINITEPAY com recursos para aceitação de tarja magnética e/ou “NFC” (“
+contactless”) poderão ser
+habilitados a exclusivo critério da INFINITEPAY. Se concedida a habilitação para uso das referidas funcionalidades, a atualização sistêmica do EQUIPAMENTO para seu uso poderá não ocorrer de forma imediata.
+7. Link de Pagamento
+7.1.
+A INFINITEPAY poderá disponibilizar ao CLIENTE o serviço de link de pagamento para promover o recebimento de pagamentos e possibilitar a efetivação de transações de compra e venda de produtos e serviços, mediante a geração de link e compartilhamento ao usuário COMPRADOR ou potencial comprador por meio de mídias ou plataformas.
+7.2.
+O usuário COMPRADOR ou potencial comprador deverá ser aprovado previamente no cadastro pela INFINITEPAY para utilização do link de pagamento. A INFINITEPAY poderá realizar as avaliações que entender pertinentes, de acordo com suas políticas internas, podendo aprovar ou rejeitar seu cadastro para a utilização da PLATAFORMA INFINITEPAY e do link de pagamento.
+7.3.
+O cadastro para uso da PLATAFORMA INFINITEPAY pelo COMPRADOR, deve ser feito mediante prévia instalação do APLICATIVO, bem  como autenticação no dispositivo. Uma vez aprovado o cadastro, o pagamento através do link gerado estará disponível no aplicativo.
+7.3.1.
+A aprovação do cadastro e a disponibilidade para realizar pagamentos por link de pagamento por parte do COMPRADOR não garante a aprovação da transação, que poderá ser analisada pela INFINITEPAY a seu exclusivo critério, e submetida para aprovação ou rejeição pelos EMISSORES.
+7.4.
+O recebimento de pagamentos referente à venda de produtos ou serviços por meio de link de pagamento, ou quaisquer meios disponibilizados pela INFINITEPAY, está sujeito aos termos e condições estabelecidos neste  CONTRATO, inclusive com relação ao cadastro, às limitações e regras referentes a CHARGEBACK, cancelamento e/ou estorno.
+7.5.
+A INFINITEPAY e seus parceiros atuam como meros facilitadores de pagamentos entre lojistas e respectivos clientes, não sendo responsáveis pelas cobranças realizadas por intermédio da PLATAFORMA INFINITEPAY. Reclamações e demandas de qualquer natureza deverão ser solucionadas diretamente entre as partes. O CLIENTE desde já isenta a INFINITEPAY e seus parceiros de qualquer responsabilidade relativamente às cobranças realizadas por meio da PLATAFORMA INFINITEPAY, inclusive com relação ao Código de Proteção e Defesa do Consumidor e demais legislações aplicáveis.
+7.6.
+Os valores devidos em razão de TRANSAÇÕES realizadas por link de pagamento ou por quaisquer meios disponibilizados pela INFINITEPAY, serão repassados ao ESTABELECIMENTO conforme seção “REPASSE DE VALORES” deste CONTRATO.
+8. Transação via Pix
+8.1.
+Ao afiliar-se junto a INFINITEPAY, apenas após o cadastro e a validação da identidade, o CLIENTE terá uma chave Pix criada e cadastrada na PLATAFORMA INFINITEPAY vinculada a sua CONTA DE PAGAMENTO, para viabilizar a aceitação de Pix, observados os Termos e Condições de Uso celebrado entre o CLIENTE e a INFINITEPAY. As condições deste CONTRATO aqui descritas são complementares aos Termos e Condições de Uso (onde constam direitos e obrigações específicos), e vice e versa, devendo ambos ser lidos e interpretados de forma conjunta e sistemática.
+8.1.1.
+Sempre que forem realizadas transações para a CONTA DE PAGAMENTO do CLIENTE, a chave Pix cadastrada na INFINITEPAY, ficará visível para a identificação do destinatário dos recursos pelo COMPRADOR.
+8.2.
+O saldo em reais disponibilizado na carteira digital ficará sob a custódia da INFINITEPAY, o que desde já autoriza o usuário.
+‍
+8.2.1.
+Ao solicitar a realização de pagamentos, o CLIENTE constitui a INFINITEPAY como sua mandatária para a destinação do pagamento ao terceiro indicado, efetuando as movimentações necessárias em sua conta de pagamento.
+8.3.
+As transações de pagamento via Pix, deverão sempre ocorrer em conformidade com as políticas internas da INFINITEPAY, as regras do Banco Central e a regulamentação à qual a INFINITEPAY está subordinada e a sua conclusão ficará sujeita à análise a exclusivo critério da INFINITEPAY.
+8.4.
+A restituição de valores decorrentes de transações de pagamento via Pix por contestação do COMPRADOR somente ocorrerá mediante a devolução dos valores pelo CLIENTE ao COMPRADOR, não havendo qualquer garantia sobre a devolução independentemente da justificativa. Os dados utilizados para a realização das transações de pagamento via Pix são de responsabilidade exclusiva do CLIENTE, que desde já isenta a INFINITEPAY de quaisquer demandas judiciais ou extrajudiciais a elas relacionadas inclusive com relação ao Código de Proteção e Defesa do Consumidor e demais legislações aplicáveis.
+8.4.1.
+Em qualquer hipótese em que seja solicitada a restituição dos valores decorrentes de transações de pagamento via Pix , o CLIENTE deverá arcar com os valores referentes às tarifas aplicáveis ao serviço.
+8.4.2.
+Em casos de suspeita de fraudes nas transações realizadas via Pix, os valores poderão ser bloqueados a critério da INFINITEPAY como medida de segurança e poderá durar até 72 (setenta e duas) horas. Este bloqueio será realizado de forma simultânea com o crédito em CONTA DE PAGAMENTO de titularidade do CLIENTE.
+8.4.3.
+Para transações de Pix, em caso de suspeita de fraude ou em que seja verificada falha operacional nos sistemas das instituições envolvidas, fica a INFINITEPAY autorizada a estornar tais valores, bem como bloquear os valores disponíveis da CONTA DE PAGAMENTO do CLIENTE, limitado ao valor total da transação recebida.
+8.4.3.1.
+Para transações via Pix, em caso de suspeita de fraude ou em que seja verificada falha operacional, fica a INFINITEPAY autorizada a estornar tais valores, bem como bloquear os valores disponíveis da CONTA DE PAGAMENTO do CLIENTE.
+8.4.4.
+As disposições da Cláusula 12 deste Contrato não se aplicam às transações de pagamento ou transferências via Pix.
+9. Antecipação de Recebíveis
+9.1.
+A INFINITEPAY antecipa, por si ou por terceiros a ela relacionados, o repasse ao CLIENTE do todo ou parte dos valores líquidos devidos em razão das TRANSAÇÕES realizadas na modalidade crédito e suas variações, ou débito, após deduzidas todas as tarifas, taxas e encargos aplicáveis, inclusive a TAXA de antecipação (“RECEBÍVEIS”), ressalvadas as exceções previstas neste instrumento, especialmente, mas não limitado ao disposto em 9.6 e 9.6.1.
+9.1.1.
+Na hipótese em que os RECEBÍVEIS do CLIENTE forem objeto de registro, nos termos da regulamentação vigente, fica autorizada a INFINITEPAY a realizar o pagamento destes RECEBÍVEIS em conta diferente do domicílio, conforme instruções dadas pela registradora.
+9.2.
+Aprovada pela INFINITEPAY, a antecipação ocorre de forma pré-contratada e automática, sendo os valores creditados na conta DOMICÍLIO mantida pelo CLIENTE perante a INFINITEPAY a seu exclusivo critério em até dois dias úteis contados a partir do dia da transação. Nesse caso, os RECEBÍVEIS a serem antecipados serão integralmente cedidos pelo CLIENTEà INFINITEPAY, sendo certo que a antecipação é realizada com relação a TRANSAÇÕES já efetivadas, podendo haver, desde que a critério e se de interesse da INFINITEPAY, negociação de créditos futuros.
+9.3.
+A antecipação de pagamento ocorrerá, a critério exclusivo da INFINITEPAY, com relação à totalidade ou a um percentual dos valores disponíveis para repasse ao CLIENTE. Nada obstante, o repasse só será executado caso o CLIENTEpossua valores a receber após efetivados todos os débitos, estornos, cancelamentos, compensações e retenções previstas neste CONTRATO.
+9.4.
+Em algumas hipóteses, de acordo com as políticas internas da INFINITEPAY, a antecipação dos créditos ao CLIENTE poderá ser realizada por terceiros, inclusive fundos de investimento em direitos creditórios, com o que o CLIENTE desde já concorda, autorizando a INFINITEPAY, na qualidade de exclusiva mandatária, a, tão logo performada a TRANSAÇÃO, compartilhar informações junto a esses terceiros, ceder imediatamente a tais terceiros, total ou parcialmente, os créditos devidos ao CLIENTE em razão de TRANSAÇÕES realizadas no âmbito do CONTRATO.
+9.4.1.
+A TAXA de antecipação acordada abrange a remuneração do terceiro e a comissão de intermediação da INFINITEPAY, que será repassada diretamente pelo terceiro à INFINITEPAY.
+9.4.2.
+Sendo realizada a antecipação por terceiros, o CLIENTE desde já autoriza a INFINITEPAY, na qualidade de exclusiva mandatária, a proceder à abertura e movimentação, em nome do CLIENTE, de CONTA DE PAGAMENTO específica, na qual serão liquidados os recursos relativos aos créditos antecipados por terceiros.
+9.4.3.
+A cessão, transferência ou negociação, pelo CLIENTE, dos créditos decorrentes de TRANSAÇÕES deverá ser precedida de autorização prévia da INFINITEPAY.
+9.5.
+O CLIENTE é o único responsável pela validade e legitimidade dos RECEBÍVEIS objeto de antecipação. Em caso de débito, estorno ou cancelamento de TRANSAÇÕES cujos valores tenham sido antecipados, fica a INFINITEPAY desde já autorizada a compensar tais valores com os valores a serem repassados ao CLIENTE em razão das TRANSAÇÕES ou realizar a cobrança por qualquer outro meio previsto neste CONTRATO ou na legislação.
+9.6.
+A INFINITEPAY poderá suspender a antecipação de valores a seu exclusivo critério, a qualquer tempo e sem necessidade de justificativa, mediante comunicação ao CLIENTE.
+9.6.1. Sem prejuízo do disposto neste CONTRATO, especialmente em 9.6 acima, a suspensão da antecipação poderá ocorrer em razão de, exemplificadamente, mas não limitando-se a: (i) falhas sistêmicas; (ii) descumprimento contratual por parte do CLIENTE; (iii) culpa exclusiva de terceiros e/ou do CLIENTE, (iv) alteração nas REGRAS DO MERCADO DE MEIOS DE PAGAMENTO e legislação aplicável, dentre outros, observado o dever de comunicação da INFINITEPAY. A suspensão dos serviços nos termos deste CONTRATO em nenhuma hipótese enseja descumprimento contratual por parte da INFINITEPAY ou qualquer dever de indenização ao CLIENTE.
+‍9.7.
+A prévia aprovação da antecipação pela INFINITEPAY não constitui garantia inequívoca de que a INFINITEPAY concederá antecipações futuras, cabendo a ela, INFINITEPAY aprová-las ou não, a seu exclusivo critério.
+10. Repasse de Valores
+10.1.
+Não havendo antecipação dos RECEBÍVEIS nos termos deste instrumento, desde que a TRANSAÇÃO tenha sido realizada de acordo com o CONTRATO e normas aplicáveis, e ressalvadas as hipóteses de cancelamento e retenção, a INFINITEPAY realizará o repasse ao CLIENTE, a seu exclusivo critério no DOMICÍLIO mantido perante a INFINITEPAY (observadas exceções do CONTRATO) do valor líquido da TRANSAÇÃO (depois de deduzidas as tarifas, taxas, encargos, aluguéis ou multas aplicáveis), nos seguintes prazos:
+‍
+(i)
+TRANSAÇÕES na modalidade “débito”: o valor líquido da TRANSAÇÃO será creditado no DOMICÍLIO do CLIENTE em uma única parcela, no prazo de até dois dias úteis.
+(ii)
+TRANSAÇÕES na modalidade “crédito à vista”: o valor líquido da TRANSAÇÃO será creditado no DOMICÍLIO do CLIENTE em uma única parcela, no prazo de até trinta e dois dias.
+(iii)
+TRANSAÇÕES na modalidade “parcelado emissor”: o valor líquido da TRANSAÇÃO será creditado no DOMICÍLIO do CLIENTE em uma única parcela, no prazo de até trinta e dois dias. Opção disponível apenas quando disponibilizada pelo EMISSOR do CARTÃO utilizado para a TRANSAÇÃO, de acordo com as regras por ele estabelecidas.
+(iv)
+TRANSAÇÕES na modalidade “parcelado estabelecimento”: o valor líquido da TRANSAÇÃO será creditado no DOMICÍLIO do CLIENTE em parcelas mensais, iguais e sucessivas, sendo a primeira delas creditada no prazo de trinta e dois dias e as demais nas mesmas datas dos meses subsequentes.
+10.1.1.
+O valor líquido das TRANSAÇÕES descritas em (ii), (iii) e (iv) acima, cujo repasse seja antecipado nos termos da Cláusula 9, será creditado em favor do CLIENTE em uma única parcela no prazo de até dois dias úteis.
+10.1.2.
+O prazo para repasse será contado a partir da data de realização de cada TRANSAÇÃO. Caso a data prevista para crédito não seja dia útil, o crédito será efetuado no primeiro dia útil subsequente.
+10.1.3.
+Em razão de regulamentação, ordens de crédito poderão ser executadas por intermédio de uma câmara centralizadora de compensação e liquidação, e não de forma direta pela INFINITEPAY. A INFINITEPAY, portanto, não se responsabiliza por eventuais atrasos no pagamento decorrentes de falhas ou omissões imputáveis a terceiros caso a ordem de crédito ao CLIENTE tenha sido tempestivamente emitida pela INFINITEPAY.
+10.1.4.
+O repasse dos recebíveis poderá ocorrer de forma fracionada ao longo do dia programado a exclusivo critério da INFINITEPAY.
+10.2.
+O extrato das TRANSAÇÕES realizadas pelo CLIENTE, enquanto o cadastro estiver ativo, será disponibilizado para consulta na PLATAFORMA INFINITEPAY pelo prazo máximo de seis meses contados da data de realização de cada TRANSAÇÃO, cabendo ao CLIENTE o armazenamento e guarda de tais informações após esse prazo.
+10.2.1.
+Mediante solicitação formal pelo CLIENTE, os extratos poderão ser enviados por meio de troca eletrônica de arquivos, cabendo exclusivamente ao CLIENTE a contratação de empresa especializada homologada pela INFINITEPAY, não tendo a INFINITEPAY qualquer responsabilidade com relação ao uso dos dados a serem enviados ao terceiro contratado pelo CLIENTE.
+10.3.
+Em caso de atraso nos pagamentos devidos nos termos deste CONTRATO por comprovados culpa ou dolo da INFINITEPAY, incidirão sobre os valores em atraso juros de mora de 1% ao mês ou fração. Não incidirá qualquer penalidade em caso de atraso nos pagamentos por culpa exclusiva de terceiros, bem como nas hipóteses de evento de caso fortuito ou força maior.
+10.4.
+O CLIENTE não poderá solicitar a alteração de seu DOMICÍLIO para outro, mesmo que de mesma titularidade, exceto quando autorizado pela INFINITEPAY. Os pagamentos relativos às TRANSAÇÕES capturadas serão a exclusivo critério da INFINITEPAY,  automaticamente creditados no  DOMICÍLIO do CLIENTE mantido junto a  INFINITEPAY, e a partir daí, poderão ser utilizados para transferências ou pagamento de valores, incluindo, mas sem se limitar a Pix e outras operações que eventualmente venham a ser por ela disponibilizadas.
+10.5.
+Caso o CLIENTE contrate operação de crédito com garantia de RECEBÍVEIS junto a instituição financeira, os recursos oriundos de TRANSAÇÕES poderão ser remetidos à instituição domicílio indicada no respectivo contrato ou por registradora, durante sua vigência, independentemente de autorização do CLIENTE, para efeito de liquidação financeira dos RECEBÍVEIS para cada BANDEIRA.
+10.6.
+Os custos incorridos pela INFINITEPAY para liquidação dos valores devidos ao CLIENTE conforme 10.5 serão de responsabilidade do CLIENTE, que desde já autoriza a compensação de tais valores com os valores que lhe serão  repassados.
+10.7
+Fica a INFINITEPAY desde já autorizada a compensar quaisquer valores devidos pelo CLIENTE à INFINITEPAY (inclusive, mas sem limitação, a remuneração devida nos termos deste CONTRATO, aluguel de EQUIPAMENTOS, reparo de EQUIPAMENTOS após o término da garantia contratual, envio de insumos, débitos decorrentes de cancelamentos, estornos, CHARGEBACKS ou multas aplicáveis em virtude deste CONTRATO) com os valores a serem repassados ao CLIENTE em razão das TRANSAÇÕES.
+10.7.1.
+Caso a compensação não seja possível, por qualquer motivo, o CLIENTE deverá, no prazo máximo de cinco dias após o recebimento de notificação nesse sentido, reembolsar à INFINITEPAY o valor correspondente, devidamente corrigido de acordo com a variação do IPCA/FGV (ou índice que o substitua) desde a data do repasse até a data do reembolso, acrescido de juros de 1% ao mês, dos encargos operacionais e perdas e danos incorridos pela INFINITEPAY, se for o caso.
+10.7.2.
+Em caso de inadimplemento, o CLIENTE poderá ser inscrito nos cadastros de proteção ao crédito, mediante comunicação prévia pela INFINITEPAY.
+10.8.
+Em caso de suspeita de fraude, realização de TRANSAÇÕES irregulares, atividade ilícita ou justificável suspeita da incapacidade do CLIENTE em cumprir com as suas obrigações perante a INFINITEPAY e/ou os COMPRADORES, a INFINITEPAY poderá reter eventuais repasses a serem realizados ao CLIENTE até o término da apuração feita pela INFINITEPAY sobre a suspeita de fraude ou irregularidade ou até que seja solucionada pelo CLIENTE a sua incapacidade de cumprir com suas obrigações.
+10.8.1.
+Na hipótese de determinação judicial para bloqueio e repasse de valores, fica a INFINITEPAY autorizada a reter eventuais repasses sem a necessidade de formalização de prévio aviso.
+10.9.
+O depósito dos valores devidos nos termos deste CONTRATO no DOMICÍLIO do CLIENTE , nas datas acordadas e nas condições aqui previstas, representa a quitação, pela INFINITEPAY, de suas obrigações com relação às TRANSAÇÕES objeto deste CONTRATO.
+10.10.
+O CLIENTE reconhece e concorda que todo e qualquer recurso recebido pela INFINITEPAY dos integrantes da cadeia de pagamento, ainda que destine-se ao posterior crédito em favor do CLIENTE, constituirá propriedade exclusiva da INFINITEPAY até o momento em que efetivamente venha a efetuar o respectivo crédito em favor do CLIENTE.
+11. Conta de Pagamento
+11.1
+A CONTA DE PAGAMENTO será aberta sob a titularidade do CLIENTE desde que aprovada sua afiliação, e quando aplicável, o seu representante legal poderá movimentá-la e utilizar as funcionalidades disponíveis conforme descrito no item 11.2. abaixo. O número da CONTA DE PAGAMENTO será informado ao CLIENTE no momento de sua abertura e ficará disponível para visualização pela PLATAFORMA INFINITEPAY.
+11.1.1.
+As funcionalidades da CONTA DE PAGAMENTO também deverão observar as condições constantes dos Termos e Condições de Uso celebrado entre o CLIENTE e a INFINITEPAY. As condições deste CONTRATO aqui descritas são complementares aos Termos e Condições de Uso (onde constam direitos e obrigações específicos), e vice e versa, devendo ambos ser lidos e interpretados de forma conjunta e sistemática.
+11.2.
+Os recursos a serem repassados pela INFINITEPAY ao CLIENTE nos termos deste CONTRATO serão disponibilizados, a exclusivo critério da INFINITEPAY, exclusivamente na CONTA DE PAGAMENTO do CLIENTE junto a INFINITEPAY e poderão ser livremente utilizados pelo CLIENTE para realização das operações permitidas e desde de que disponíveis na PLATAFORMA INFINITEPAY, inclusive Pix, incluindo: (i) pagamento de contas de consumo, boletos e tributos, (ii) transferência para contas de pagamento de terceiros mantidas na PLATAFORMA INFINITEPAY (iii) movimentação de moeda virtual, incluindo moeda virtual emitida pela INFINITEPAY(iv) transferência para contas mantidas pelo CLIENTE e/ou (v) carga/recarga de cartões pré-pagos disponibilizados pela INFINITEPAY.
+11.2.1.
+A exclusivo critério da INFINITEPAY a realização das operações disponíveis na CONTA DE PAGAMENTO dependerá do comando e autenticação do usuário.
+11.3.
+Para controlar os recursos disponibilizados ou movimentados na CONTA DE PAGAMENTO, o CLIENTE poderá visualizar seu extrato através da PLATAFORMA INFINITEPAY.
+11.4.
+Os recursos disponíveis na CONTA DE PAGAMENTO, caso autorizado pelo CLIENTE, poderão ser utilizados para a contratação de outros produtos e serviços oferecidos pela INFINITEPAY cujos termos aplicáveis serão contratados por instrumento específico.
+11.5.
+O CLIENTE poderá requerer o resgate do saldo de sua CONTA DE PAGAMENTO a qualquer momento através dos canais de atendimento da INFINITEPAY ou pela PLATAFORMA INFINITEPAY. Em havendo lançamentos a débito pendentes para a CONTA DE PAGAMENTO do CLIENTE conforme previsto neste Contrato ou na Legislação aplicável, os valores respectivos, acrescidos das tarifas incidentes, serão deduzidos do saldo da CONTA DE PAGAMENTO antes da efetivação da transferência.
+11.6.
+É de exclusiva responsabilidade do CLIENTE a proteção de suas senhas de acesso à CONTA DE PAGAMENTO, não devendo as divulgar nem permitir sua utilização por terceiros não autorizados, ficando a INFINITEPAY isenta de quaisquer responsabilidades por acessos não autorizados.
+11.6.1.
+Considerando que o acesso à CONTA DE PAGAMENTO e à PLATAFORMA INFINITEPAY se dá através de aparelhos celulares e ou equipamentos eletrônicos, recomendamos sua manutenção em locais seguros e a utilização de mecanismos que garantam a segurança e uso restrito.
+11.6.2.
+A INFINITEPAY fica isenta de qualquer responsabilidade decorrente de (i) transações não realizadas em virtude da suspeita de crimes financeiros; (ii) transações realizadas por terceiros com o uso de  senha do CLIENTE ou após a autenticação do usuário; (iii) transações realizadas por terceiros não autorizados após furto, roubo e/ou perda do seu aparelho em que não há comunicação imediata à INFINITEPAY.
+11.6.3.
+Quando da ocorrência de furto, roubo e/ou perda de celular ou equipamentos eletrônicos que permitem acesso a PLATAFORMA INFINITEPAY, fica o CLIENTE obrigado à informar a INFINITEPAY imediatamente após o ocorrido, através dos canais de atendimento para que esta proceda ao bloqueio imediato da CONTA DE PAGAMENTO.
+11.6.4.
+A utilização da PLATAFORMA INFINITEPAY através de celulares ou outros equipamentos eletrônicos dependerá da autorização do CLIENTE para utilização mediante a autenticação e confirmação de informações com a finalidade de assegurar mais segurança ao CLIENTE.
+11.6.5.
+As informações necessárias para a abertura da CONTA DE PAGAMENTO deverão ser mantidas atualizadas para realização dos procedimentos de segurança necessários a garantir a boa execução do presente CONTRATO.
+11.7.
+A atualização das informações do CLIENTE poderá ser feita através da PLATAFORMA INFINITEPAY.
+11.8.
+O CLIENTE é o único responsável pelas operações realizadas por intermédio da PLATAFORMA INFINITEPAY, inclusive com relação à correta indicação de dados para transferência de valores a terceiros. A INFINITEPAY não se responsabiliza por quaisquer prejuízos decorrentes de operações indevidas e/ou operações que não possam ser completadas por erros nos dados informados.
+11.9.
+As operações realizadas na PLATAFORMA INFINITEPAY deverão observar todas as disposições deste CONTRATO, dos Termos e Condições de Uso celebrado entre o CLIENTE e a INFINITEPAY, as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO e as demais condições e regras operacionais e de segurança que venham a ser instituídas pela INFINITEPAY, sendo vedada a realização de operações fictícias ou simuladas.
+11.10.
+Caso se apliquem limites para movimentação da CONTA DE PAGAMENTO ou para o saldo nela mantido, tal limitação será previamente informada ao CLIENTE através da PLATAFORMA INFINITEPAY ou por outros canais de comunicação.
+11.11.
+A CONTA DE PAGAMENTO poderá ser bloqueada e encerrada a qualquer momento e à exclusivo critério da INFINITEPAY, sem que seja permitida a realização de nenhuma movimentação, caso haja qualquer suspeita de fraude, divergências cadastrais, crimes financeiros ou medidas de combate aos crimes de lavagem de dinheiro, ocultação de bens, terrorismo e seu financiamento, ou operações em desconformidade com o estabelecido por este CONTRATO. Na hipótese de bloqueio, o desbloqueio apenas ocorrerá após a regularização acerca da situação que ensejou o bloqueio, quando aplicável.
+11.12.
+A CONTA DE PAGAMENTO poderá ser encerrada a qualquer momento mediante solicitação do CLIENTE, e caso não sejam constatados quaisquer débitos pendentes, o saldo disponível poderá ser resgatado para quaisquer outras contas de titularidade do CLIENTE conforme estabelecido no item 156.5 deste CONTRATO.
+11.12.1.
+O CLIENTE desde já autoriza a INFINITEPAY a descontar do saldo constante de sua CONTA DE PAGAMENTO quaisquer valores por ele devidos em decorrência de outros serviços ou produtos contratados perante a INFINITEPAY, incluindo sem se limitar a, débitos decorrentes de cancelamentos, chargebacks e a suspeita de fraude.
+11.13. Aplicações automáticas
+. O CLIENTE  desde já autoriza a INFINITEPAY, a seu exclusivo critério, a  realizar aplicações automáticas (“Aplicação Automática”), do saldo disponível em sua Conta InfinitePay, no todo ou em parte, em Certificados de Depósito Bancário (CDBs), ou Recibos de Depósito Bancário (RDBs) emitidos por instituições financeiras participantes do mesmo grupo econômico da INFINITEPAY, ou em títulos públicos federais. O CLIENTE, desde que disponibilizado pela INFINITEPAY, também poderá solicitar aplicações conforme condições aplicáveis (“Investimento”).
+11.13.1. Mandato.
+O CLIENTE desde já, autoriza expressamente a INFINITEPAY, como sua mandatária, nos termos do artigo 653 e seguintes do Código Civil, lhe outorgando os poderes necessários para: (i) realizar Aplicações Automáticas e resgates dos valores aplicados, exclusivamente nos limites previstos nesta cláusula; e (ii) negociar prazos e condições necessárias, bem como formalizar e/ou transacionar os instrumentos indispensáveis à emissão, aplicação, registro e resgate das Aplicações Automáticas e/ou dos Investimentos. Essa outorga de poderes será automaticamente revogada com o encerramento da Conta Infinitepay pelo CLIENTE ou mediante solicitação expressa do CLIENTE nos canais de atendimento.
+11.13.2.
+O saldo aplicado poderá ser utilizado livremente pelo CLIENTE a qualquer momento, observado o fluxo de liquidação das aplicações e as regras deste Contrato.
+11.13.3.
+O CLIENTE poderá cancelar a funcionalidade de Aplicação Automática a qualquer momento pelos canais de atendimento da INFINITEPAY. A INFINITEPAY poderá também suspender ou cancelar essa funcionalidade mediante comunicação, especialmente em casos de contas inativas, bloqueadas ou pendentes de regularização.
+11.13.4.
+A contratação e a Aplicação Automática bem como os Investimentos contam com a garantia do Fundo Garantidor de Créditos (“FGC”), conforme previsto em seus regulamentos vigentes.
+‍
+12. Contestação e cancelamento de transações
+12.1.
+Em caso de contestação de TRANSAÇÃO pelo COMPRADOR, o CLIENTE será comunicado pela INFINITEPAY e, ressalvadas as contestações decorrentes de fraude, deverá apresentar para análise, no prazo máximo de dois dias úteis, cópias legíveis e sem rasuras do respectivo comprovante de venda, bem como de qualquer documentação adicional que demonstre que a contestação do COMPRADOR é indevida.  Caso o CLIENTE deixe de apresentar a documentação de suporte no prazo indicado, a contestação poderá ser acatada de pronto pela INFINITEPAY.
+12.1.1.
+O envio da documentação de suporte por parte do CLIENTE não garante que a transação será considerada válida, estando, portanto, sujeitos aos critérios de avaliação, que levarão em conta as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO, incluindo, mas não se limitando, os prazos e procedimentos estabelecidos.
+12.2.
+O próprio CLIENTE poderá cancelar as TRANSAÇÕES realizadas em seu EQUIPAMENTO, diretamente pelo EQUIPAMENTO, desde que o cancelamento ocorra na mesma data da realização da TRANSAÇÃO.
+12.2.1.
+Caso o CLIENTE queira cancelar TRANSAÇÕES realizadas em seu EQUIPAMENTO ou pelos demais meios disponibilizados pela INFINITEPAY, em data posterior a de sua realização, a solicitação deverá ser feita exclusivamente através do APLICATIVO da INFINITEPAY conforme os
+prazos e condições aqui divulgados
+.
+12.2.2.
+O cancelamento das transações ocorrerá a exclusivo critério da INFINITEPAY e quando o CLIENTE tiver RECEBÍVEIS  no próximo dia útil em montante igual  ou superior ao  valor da TRANSAÇÃO a ser cancelada. Além disso, a TRANSAÇÃO a ser cancelada não pode ter sido contestada pelo COMPRADOR e o CLIENTE não pode possuir no momento da solicitação até a sua análise qualquer tipo de restrição perante a INFINITEPAY.
+12.3.
+As TRANSAÇÕES poderão, ainda, ser canceladas pela INFINITEPAY, a qualquer tempo, quando realizadas de forma irregular ou em circunstâncias que caracterizem indício ou suspeita de fraude ou ato ilícito.
+12.4.
+A TAXA será devida mesmo no caso de TRANSAÇÕES canceladas ou contestadas, por qualquer motivo.
+12.5.
+Na hipótese de cancelamento ou contestação de TRANSAÇÕES os respectivos valores não serão repassados ao CLIENTE. Caso o repasse já tenha sido efetuado, total ou parcialmente, inclusive na hipótese de antecipação de RECEBÍVEIS, a INFINITEPAY poderá compensar tais valores com os valores futuros a serem repassados ao CLIENTE. Na impossibilidade de compensação, a cobrança será realizada por qualquer outro meio previsto em lei ou neste CONTRATO. Nessa hipótese a INFINITEPAY também fica autorizada a suspender os serviços prestados ao CLIENTE até que o débito seja integralmente quitado.
+12.6.
+Caso o CLIENTE atinja determinado percentual de TRANSAÇÕES suspeitas ou irregulares, conforme definido pelas BANDEIRAS, o CLIENTE será comunicado para que regularize a situação, inclusive, mas não se limitando mediante a implementação de medidas e práticas visando à redução de tal índice. Caso o índice não seja reduzido para patamares aceitáveis, ou, ainda, caso se identifique que uma ou mais TRANSAÇÕES realizadas pelo CLIENTE foram fraudulentas, a INFINITEPAY poderá imediatamente suspender os serviços ou rescindir este CONTRATO, sem prejuízo da indenização pelas perdas e danos incorridos pela INFINITEPAY.
+12.6.1.
+O CLIENTE deverá arcar integralmente com toda e qualquer penalidade que venha a ser aplicada pelas BANDEIRAS ou demais participantes dos arranjos de pagamento integrados pela INFINITEPAY em caso de superação dos limites de TRANSAÇÕES suspeitas ou irregulares ou dos níveis permitidos de CHARGEBACK.  Caso a INFINITEPAY seja obrigada a arcar com as penalidades em questão, poderá demandar ressarcimento imediato por parte do CLIENTE, mediante compensação ou demais formas previstas neste CONTRATO.
+13. Remuneração
+13.1.
+Serão aplicáveis ao presente CONTRATO as TAXAS especificadas na página “
+Nossas Taxas
+” ou se for o caso, aquelas negociadas e aderidas individualmente por cada CLIENTE por meio da PLATAFORMA INFINITEPAY.
+13.1.1.
+Os percentuais estabelecidos poderão ser revistos pela INFINITEPAY em caso de alteração na legislação tributária, fiscal ou regulatória ou modificação das condições econômico-financeiras que embasaram a fixação das condições comerciais, inclusive volume de TRANSAÇÕES do CLIENTE e/ou alteração de atividade.
+13.1.2.
+Caso o CLIENTE não esteja de acordo com as novas condições comerciais propostas, poderá, no prazo de dez dias contados de sua instituição, rescindir o presente CONTRATO mediante notificação por escrito à INFINITEPAY. A falta de manifestação do CLIENTE com relação às novas condições comerciais no prazo aqui estabelecido será considerada concordância tácita.
+13.1.3.
+Nas hipóteses em que forem aplicadas taxas individuais ao CLIENTE, este se compromete a cumprir as condições mínimas estabelecidas pela INFINITEPAY, que poderão variar de acordo com cada negociação específica, incluindo sem se limitar:
+A) Manutenção do domicílio bancário para o recebimento de vendas na INFINITEPAY.
+B) Volume mensal mínimo de transações com as soluções de pagamento da INFINITEPAY.
+C) Utilização mensal mínima de produtos específicos da INFINITEPAY.
+13.1.4.
+Caso as condições mínimas estabelecidas não sejam cumpridas, a INFINITEPAY poderá, a seu critério, alterar as taxas aplicadas individualmente para as TAXAS especificadas na página “
+Nossas Taxas
+”.
+13.2.
+O CLIENTE desde já autoriza a INFINITEPAY a reter e repassar aos demais integrantes da cadeia de pagamento a parcela da remuneração a eles devida em razão dos serviços prestados relativamente às TRANSAÇÕES realizadas nos termos deste CONTRATO, remuneração essa que integra a TAXA estabelecida.
+13.2.1.
+Em caso de modificação na remuneração cobrada pelos demais integrantes da cadeia de pagamento, a TAXA será reajustada na mesma proporção, mediante simples comunicação ao CLIENTE nesse sentido.
+13.2.2.
+Caso o CLIENTE não esteja de acordo com os novos valores dos encargos poderá, no prazo de dez dias contados de sua instituição, rescindir o presente CONTRATO mediante notificação por escrito à INFINITEPAY. A falta de manifestação do CLIENTE no prazo aqui estabelecido será considerada concordância tácita com os novos valores dos encargos.
+13.3.
+Caso os EQUIPAMENTOS sejam locados da INFINITEPAY, será devido ainda o ALUGUEL DE EQUIPAMENTO conforme condições a serem pactuadas, cujo valor será reajustado anualmente ou na menor periodicidade permitida, de acordo com a variação do IPCA/IBGE no período, ficando desde já autorizada a compensação do ALUGUEL DE EQUIPAMENTO com os valores a serem repassados ao CLIENTE.
+13.4.
+Como contraprestação pela manutenção e movimentação da CONTA DE PAGAMENTO, serão devidos, pelo CLIENTE à INFINITEPAY, as tarifas e demais encargos aplicados, cujos valores serão reajustados anualmente ou na menor periodicidade permitida, de acordo com a variação do IPCA/IBGE no período, ficando desde já autorizada a compensação de tais valores com os valores a serem repassados ao CLIENTE.
+13.5.
+A INFINITEPAY poderá, a qualquer tempo, instituir novas modalidades de remuneração pelos serviços prestados, mediante comunicação ao CLIENTE com, no mínimo, trinta dias de antecedência.  Caso o CLIENTE não esteja de acordo com as novas modalidades de remuneração instituídas poderá, no prazo de dez dias contados de sua instituição, rescindir o presente CONTRATO mediante notificação por escrito à INFINITEPAY. A falta de manifestação do CLIENTE com relação às novas modalidades de remuneração no prazo aqui estabelecido será considerada concordância tácita.
+13.6.
+Poderá a INFINITEPAY a seu exclusivo critério estabelecer taxas diferenciadas para transações realizadas por seus diferentes produtos ou serviços, incluindo sem se limitar ao link de pagamento e o uso da solução tap to Phone.
+13.7.
+No caso de atraso no pagamento, pelo CLIENTE, de quaisquer valores devidos nos termos deste CONTRATO, sobre o montante do débito incidirão correção monetária pelo IPCA/FGV, juros de mora de 1% ao mês e multa de 10%, sem prejuízo do ressarcimento pelas perdas e danos eventualmente incorridos pela INFINITEPAY.
+13.8.
+Nas hipóteses de parcelamento da cobrança de quaisquer débitos, taxas de juros ou quaisquer multas devidas nos termos deste CONTRATO, o CLIENTE será responsável por quaisquer acréscimos somados à cobrança principal em face de tal parcelamento.
+14. Gestão de Cobrança
+14.1.
+A INFINITEPAY poderá oferecer, a seu exclusivo critério, o serviço de cobrança recorrente enviada pelo CLIENTE via aplicativo de mensagens (Whatsapp) ao consumidor com a disponibilização de um link de pagamento que poderá ser pago por seu cliente via Pix ou cartão
+conforme as taxas aplicáveis
+.
+14.2.
+O CLIENTE poderá definir a periodicidade e o valor a ser cobrado, e, para criar uma nova cobrança, deverá cadastrar informações do consumidor, como nome, e-mail e telefone, de modo a permitir que a cobrança seja feita de forma automática.
+14.3.
+O recebimento de tais valores será via transferência para a conta de pagamento do CLIENTE, que poderá ocorrer no mesmo dia em que for realizado o pagamento pelo consumidor, na hipótese de pagamento do link via Pix, ou no dia seguinte, se o pagamento for feito via cartão.
+14.4.
+Caso as transações sejam contestadas pelo portador do cartão, serão aplicadas as condições descritas na cláusula 12 deste Contrato.
+15. Ecommerce
+15.1.
+A INFINITEPAY, poderá oferecer serviços de captura de cartão não presente para comercialização de produtos e serviços pelo CLIENTE, desde que observados todos os termos e condições aqui estipulados, em ambiente virtual.
+15.2.
+Os pagamentos pelos produtos ou serviços comercializados pelo CLIENTE em ambiente virtual podem ser realizados via cartões de crédito, Pix e/ou boleto, sendo possível integrar o ambiente aos serviços da INFINITEPAY, a seu exclusivo critério. Nesta hipótese, as condições deste Contrato de Afiliação, se aplicarão integralmente a todas as transações realizadas, exceto a regra de antecipação conforme disposto na cláusula 9 acima, que poderá, à exclusivo critério da INFINITEPAY, ser convencionada entre as partes.
+15.3.
+O CLIENTE deve disponibilizar somente produtos e/ou serviços permitidos nos termos da legislação vigente, sendo o CLIENTE responsável pela entrega correta e tempestiva aos compradores dos produtos e/ou serviços comercializados, bem como por quaisquer problemas de aceitação, quantidade, qualidade, garantia, preço ou não atendimento, observado o direito de arrependimento por parte do comprador. A INFINITEPAY não poderá ser responsabilizada, em qualquer hipótese, por problemas decorrentes do fornecimento dos produtos e serviços ofertados pelo CLIENTE, inclusive, por meio de ambiente virtual. O CLIENTE autoriza a divulgação de sua logo e/ou marca, além de endereço de e-mail para resolução de problemas e/ou questionamentos feitos por consumidores com relação à prestação do serviço através do ambiente virtual da INFINITEPAY.
+15.4.
+O CLIENTE se obriga a emitir os documentos fiscais apropriados relativamente aos produtos e serviços comercializados por meio do ambiente virtual, bem como a efetuar o recolhimento de todos os tributos incidentes.
+15.5.
+O CLIENTE declara estar plenamente ciente quanto à legislação aplicável ao comércio eletrônico, à proteção do consumidor e à proteção de dados pessoais, inclusive, mas sem limitação, o Decreto nº 7.962/2013, a Lei 12.965/2014 (Marco Civil da Internet), o Código de Defesa do Consumidor (Lei nº 8.078/1990) e a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), obrigando-se, ainda, a cumprir todas as demais leis, normas e regulamentos aplicáveis à sua atividade.
+15.6.
+A INFINITEPAY não se responsabiliza por indenizações, perdas, danos, lucros cessantes ou prejuízos de qualquer natureza incorridos pelo CLIENTE ou terceiros em decorrência da má utilização dos serviços disponibilizados  e/ou decorrentes de conflitos ou incompatibilidade entre estas e os demais sistemas utilizados pelo CLIENTE.
+15.7.
+O CLIENTE é o único e exclusivo responsável pelo cumprimento da legislação a si aplicável, inclusive obrigações fiscais, não assumindo a INFINITEPAY qualquer responsabilidade em relação às operações ou atividades do CLIENTE.
+15.8.
+O CLIENTE manterá a INFINITEPAY imune e indene de qualquer ação judicial, procedimento administrativo ou aplicação de penalidade em desfavor da INFINITEPAY por ato, fato ou omissão decorrentes por culpa ou dolo do CLIENTE, seus sócios, administradores, empregados, colaboradores, subcontratados e/ou terceiros relacionados direta ou indiretamente ao CLIENTE, devendo este arcar diretamente com eventuais custas, despesas, taxas, emolumentos e condenações.
+16. Modo Vendedor
+16.1.
+Caso permitido, o CLIENTE poderá conceder acesso para realização de vendas por usuários por ele autorizados. Estes acessos denominados “modo vendedor” ficarão vinculados ao cadastro do CLIENTE.
+16.2.
+O CLIENTE é responsável pelo acesso por ele concedido e todas as ações ali realizadas, incluindo sem se limitar às vendas concluídas e possíveis contestações delas decorrentes de acordo com as funcionalidades disponíveis.
+16.3.
+O vendedor autorizado pelo CLIENTE deverá enviar à INFINITEPAY todas as informações e documentos solicitados, além de realizar todos os procedimentos que vierem a ser demandados. Uma vez recebido o que for solicitado, a INFINITEPAY, a seu exclusivo critério, realizará as avaliações que entender pertinentes, de acordo com suas políticas internas, e poderá aprovar ou rejeitar seu cadastro.
+17. Prazo e Rescisão
+17.1.
+Este CONTRATO tem a vigência iniciada, com relação ao CLIENTE, na data de aprovação do cadastro e permanecerá em vigor por prazo indeterminado, podendo ser rescindido por qualquer das partes, a qualquer tempo, mediante notificação por escrito à outra parte com antecedência mínima de trinta dias.
+17.2.
+Sem prejuízo das demais hipóteses previstas neste documento, o CONTRATO poderá ser imediatamente rescindido, mediante simples comunicação nesse sentido à outra parte, nas seguintes hipóteses:
+‍
+(i)
+decretação de falência, instauração de processo de recuperação, judicial ou extrajudicial, dissolução ou liquidação voluntária ou compulsória da outra parte;
+‍
+(ii)
+ocorrência de ato de força maior ou caso fortuito que comprovadamente impeça a execução do CONTRATO;
+‍
+(iii)
+descumprimento ou cumprimento irregular de quaisquer das obrigações decorrentes deste CONTRATO não sanado no prazo de cinco dias contados do recebimento, pela parte faltosa, de notificação por escrito da outra parte nesse sentido;
+‍
+(iv)
+reincidência no descumprimento de obrigações previstas neste CONTRATO;
+(v)
+realização de TRANSAÇÕES irregulares ou suspeitas por parte do CLIENTE;
+‍
+(vi)
+caso o CLIENTE atinja determinado percentual de TRANSAÇÕES suspeitas ou irregulares e deixe de regularizar a situação no prazo determinado pela INFINITEPAY;
+‍
+(vii)
+caso o CLIENTE venha a exercer atividades consideradas não desejáveis, a exclusivo critério da INFINITEPAY;
+‍
+(viii)
+caso o CLIENTE venha a comprometer, por qualquer forma, a imagem da INFINITEPAY e/ou das empresas pertencentes ao grupo econômico da INFINITEPAY;
+‍
+(ix)
+na hipótese de determinação de rescisão do presente CONTRATO pelas BANDEIRAS ou outros participantes dos arranjos de pagamento integrados pela INFINITEPAY;
+‍
+(x)
+caso o CLIENTE não realize qualquer TRANSAÇÃO em um período de três meses consecutivos;
+‍
+(xi)
+caso haja fundada suspeita de fraude em transações via Pix, ou sejam identificadas marcações de fraudes confirmadas no Diretório de Identificadores de Contas Transacionais (DICT), do BANCO CENTRAL DO BRASIL – "BACEN".
+17.3.
+O término ou rescisão do CONTRATO não exonera as partes do cumprimento pleno e irrestrito de todas as obrigações assumidas até sua integral liquidação nos prazos e condições aqui estabelecidos.
+17.4.
+Em havendo suspeita de fraude ou qualquer outra atividade ilícita ou irregular, a INFINITEPAY poderá, no momento da rescisão, reter eventuais repasses a serem realizados ao CLIENTE pelo prazo de até 180 (cento e oitenta dias) contados da data da rescisão, para realização de análise  sobre os eventos.  Caso, ao término das apurações, não seja detectada irregularidade, os valores serão repassados ao DOMICÍLIO do CLIENTE, sem qualquer reajuste ou correção, ou em conta de sua titularidade por ele indicada.
+17.5.
+Em caso de término do CONTRATO, por qualquer motivo, o CLIENTE compromete-se a manter ativo seu DOMICÍLIO até que todas as TRANSAÇÕES sejam integralmente liquidadas, incluindo TRANSAÇÕES de crédito parceladas.  Uma vez liquidados todos os valores devidos pela INFINITEPAY ao CLIENTE, a INFINITEPAY deverá transferir eventual saldo remanescente da CONTA DE PAGAMENTO do CLIENTE, se houver, conforme instruções deste, encerrando a respectiva CONTA DE PAGAMENTO.
+18. Confidencialidade E Segurança das Informações
+18.1.
+O CLIENTE, por si, seus representantes, empregados e/ou prepostos, se obriga a manter em absoluto sigilo e confidencialidade todas as informações e dados da INFINITEPAY e/ou de terceiros a que tiver acesso em razão do presente CONTRATO, incluindo aquelas relativas às TRANSAÇÕES, aos COMPRADORES, dados dos CARTÕES e condições comerciais praticadas, utilizando-as somente para os fins previstos neste CONTRATO.
+18.2.
+Caso o CLIENTE trafegue, processe ou armazene em seu ambiente dados dos COMPRADORES de CARTÃO, seja em mídia física ou digital, deverá cumprir e manter-se aderente aos padrões de segurança do PCI Security Standards Council ou qualquer norma posterior que venha a regular a segurança de dados do COMPRADOR no mercado de meios de pagamento, bem como fazer com que seus fornecedores cuja atividade seja passível de tráfego, processamento ou armazenamento de dados do COMPRADOR de CARTÃO cumpram e se mantenham aderentes a tais padrões.
+18.3.
+O CLIENTE desde já se compromete a realizar eventuais adequações técnicas que venham a ser solicitadas pela INFINITEPAY, tais como homologações e atualizações de sistemas, com o intuito de garantir a segurança de seu ambiente.
+18.4.
+As obrigações de sigilo e confidencialidade aqui previstas permanecerão em vigor durante todo o prazo de vigência deste CONTRATO e subsistirão por prazo indeterminado.
+18.5.
+Considera-se um evento de comprometimento de dados de cartão, quando há o roubo ou adulteração de equipamentos físicos contendo dados de contas de pagamento, como recibos de titulares de cartão, arquivos, computadores pessoais, dispositivos de entrada de PIN e terminais POS.
+18.5.1.
+Na hipótese desses eventos, conforme descrito no item 167.5 acima, com acesso indevido, não autorizado e do vazamento ou perda de dados, independentemente do motivo que o tenha ocasionado, deverá o CLIENTE enviar comunicação por escrito à INFINITEPAY, certificando-se de seu recebimento, imediatamente a partir da ciência do vazamento, contendo, se possível e/ou quando aplicável, as seguintes informações:
+‍
+(i)
+data e hora do incidente;
+‍
+(ii)
+data e hora da ciência pelo CLIENTE;
+‍
+(iii)
+relação dos tipos de dados de cartão afetados pelo incidente;
+‍
+(iv)
+número de TITULARES afetados;
+‍
+(iv)
+relação de TITULARES afetados pelo vazamento;
+‍
+(v)
+dados de contato do Encarregado de Proteção de Dados (DPO) ou outra pessoa junto à qual seja possível obter maiores informações sobre o ocorrido;
+‍
+(vi)
+descrição das possíveis consequências do incidente; e
+‍
+(v)
+indicação de medidas que estiverem sendo tomadas para reparar o dano e evitar novos incidentes.
+18.5.2.
+Caso o CLIENTE não disponha de todas as informações no momento de envio da comunicação, deverá enviá-las de forma gradual, visando garantir a maior celeridade possível, sendo certo que a comunicação completa (com todas as informações indicadas) deve ser enviada no prazo máximo de 24 horas a partir da ciência do incidente.
+19. Proteção de Dados
+19.1.
+A INFINITEPAY coleta dados e informações recebidos do e pelo CLIENTE, que incluem, sem se limitar, a dados pessoais de seus representantes, sócios, diretores,  administradores, bem como pessoas a eles relacionadas que eventualmente podem incluir dados pessoais de COMPRADOR, primariamente para viabilizar os serviços objeto deste CONTRATO, mas também podem ser utilizados para facilitar ou aprimorar a forma de prestação dos serviços, realizar análises e pesquisas, gerenciar o relacionamento e as comunicações com os clientes e parceiros, responder a demandas e reclamações, testar e aprimorar a integridade dos sistemas da INFINITEPAY e para divulgação de produtos e serviços da INFINITEPAY e seus parceiros.
+19.2.
+Os dados também são utilizados para cumprimento de obrigações legais e regulatórias a que a INFINITEPAY se submete e para quaisquer outras finalidades razoavelmente necessárias ou relativas ao relacionamento entre a INFINITEPAY e o CLIENTE.
+19.2.1.
+Fica a INFINITEPAY autorizada a compartilhar os dados com as autoridades nas hipóteses de suspeita ou efetivação de fraude.
+19.3.
+Os dados pessoais do CLIENTE poderão ser transferidos para fora do Brasil (Transferência Internacional), para finalidades específicas, de acordo com a legislação, ficando sempre garantido que essa transferência ocorrerá apenas para os países que possuem um grau de segurança similar ao previsto pela legislação brasileira (LGPD).
+19.4.
+Nos termos da Resolução conjunta nº 6, do Banco Central do Brasil, o CLIENTE autoriza e consente com o tratamento e o compartilhamento de dados e informações sobre indícios de fraudes.
+19.4.1.
+O compartilhamento autorizado nos termos do item 18.4. contemplará:
+a) O registro de dados e de informações sobre indícios de ocorrências ou de tentativas de fraudes identificadas pela INFINITEPAY em suas atividades;
+b) Alteração e a exclusão dos dados e das informações registrados conforme o caso; e
+c) A consulta dos dados e das informações registrados sobre o CLIENTE.
+19.4.2.
+O registro dos dados e das informações vão contemplar no mínimo:
+a) A identificação de quem, segundo os indícios disponíveis, teria executado ou tentado executar a fraude, quando aplicável;
+b) A descrição dos indícios da ocorrência ou da tentativa de fraude;
+c) A identificação da instituição responsável pelo registro dos dados e das informações; e
+d)A identificação dos dados da conta destinatária e de seu titular, em caso de transferência ou pagamento de recursos.
+19.5.
+Assim como a INFINITEPAY, o CLIENTE, no tocante ao seu relacionamento com o COMPRADOR, deverá cumprir integralmente toda e qualquer legislação que versa sobre proteção de dados, declarando, ainda, estar ciente da e de acordo com a Política de Proteção de Dados Pessoais da INFINITEPAY.
+19.5.1.
+Fica expressamente vedado ao CLIENTE armazenar quaisquer dados de cartão dos portadores coletadas na  captura de transações em sua infraestrutura interna, como por exemplo Dados Sensíveis como o PAN e Dados Sensíveis de Autenticação” como o CVV, CVC2, CID, sob pena de rescisão motivada deste contrato.
+19.6.
+Na hipótese em que o CLIENTE tenha iniciado seu relacionamento com a INFINITEPAY por intermédio de um parceiro da INFINITEPAY, o CLIENTE desde já concorda e autoriza que todos os dados e informações a que a INFINITEPAY tenha acesso em função deste CONTRATO sejam divulgados ao parceiro, inclusive dados pessoais e aqueles sujeitos às regras de sigilo bancário.
+19.7.
+O CLIENTE desde já autoriza a INFINITEPAY e seus parceiros a consultar base de dados de qualquer bureau de crédito e informações e/ou quaisquer outras fontes públicas ou privadas de dados e a divulgar seus dados e informações na medida do necessário para a prestação dos serviços objeto deste CONTRATO ou quando requerido em razão de lei, ordem judicial ou demanda de autoridades competentes, incluindo comunicações ao Banco Central do Brasil.
+19.8.
+Na máxima extensão permitida por lei, o CLIENTE desde já autoriza a INFINITEPAY a utilizar as informações a que vier a ter acesso em razão do presente CONTRATO para quaisquer fins, inclusive comerciais, e para formação de banco de dados, bem como sua divulgação a qualquer título, desde que de forma generalizada e não individualizada.
+19.9.
+A coleta e uso dos dados e informações para os propósitos aqui estabelecidos é essencial para a prestação dos serviços. Caso o CLIENTE ou quaisquer de seus representantes manifeste intenção de que a INFINITEPAY cesse a utilização de seus dados e informações, a prestação dos serviços objeto deste CONTRATO pode não ser possível, hipótese em que o Contrato poderá ser rescindido, a critério da INFINITEPAY, mediante prévia comunicação ao CLIENTE.
+19.10.
+A INFINITEPAY compromete-se a manter os dados e informações do CLIENTE e de seus representantes e pessoas a eles relacionadas em estrita conformidade com a legislação aplicável e apenas pelo tempo necessário para os propósitos aqui declarados.
+19.11.
+O CLIENTE autoriza, em caráter irrevogável e irretratável e em conformidade com as exigências legais, a INFINITEPAY e seus parceiros a consultar, a qualquer tempo, os débitos e responsabilidades decorrentes de operações com características de crédito, demais informações e registros de medidas judiciais em seu nome, do(s) sócio(s) e do(s) representante(s) legal(is) (quando aplicável) que constem ou venham a constar do Sistema de Informações de Crédito ("SCR"), gerido pelo BANCO CENTRAL DO BRASIL – "BACEN", ou dos sistemas que venham a complementá-lo ou a substituí-lo. Fica ainda a INFINITEPAY autorizada a revelar as informações constantes ou que venham a constar no SCR.
+19.11.1.
+O CLIENTE declara ainda ciência de que: a) o SCR tem por finalidades fornecer informações ao BACEN para fins de supervisão do risco de crédito a que estão expostas as instituições financeiras e propiciar o intercâmbio de informações entre essas instituições com o objetivo de subsidiar decisões de crédito e de negócio; b) o SCR é alimentado mensalmente pelas instituições financeiras, mediante coleta de informações sobre operações concedidas com responsabilidade igual ou superior a R$ 200,00 (duzentos reais), vencidas e vincendas, bem como valores referentes às fianças e avais prestados pelas instituições financeiras a seus clientes; c) o CLIENTE terá acesso aos dados constantes em seu nome no SCR por meio do Registrato – Extrato de Registro de Informações no Banco Central, sistema gratuito de informações disponíveis em cadastros administrados pelo BACEN; bem como, alternativamente, através das Centrais de Atendimento ao Público do Banco Central do Brasil, pessoalmente, ou por correspondência, conforme orientações disponíveis no ambiente virtual do BACEN (www.bcb.gov.br); d) as informações remetidas para fins de registro no SCR são de exclusiva responsabilidade das instituições financeiras, inclusive no que tange às inclusões, correções, exclusões, registro de medidas judiciais e manifestações de discordância quanto às tais informações constantes no sistema, sendo certo que somente a instituição financeira responsável pela inclusão poderá alterá-la ou excluí-la; e) pedidos de correções, exclusões e manifestações de discordância quanto às informações constantes do SCR deverão ser dirigidas primeiramente à instituição responsável pela remessa das informações. Em caso de não entendimento entre as partes, poderá ser registrada reclamação na Central de Atendimento ao Público do Banco Central, ou por meio de medida judicial cabível, em face da instituição financeira responsável pelo lançamento de tais informações; f) a consulta sobre qualquer informação ao SCR depende de prévia autorização do CLIENTE; g) mais informações sobre o SCR podem ser obtidas em consulta ao ambiente virtual do Banco Central (
+www.bcb.gov.br
+).
+19.11.2.
+Quando se tratar de empresário individual, o CLIENTE autoriza expressamente a INFINITEPAY e seus parceiros a consultar a base de dados do Sistema e Informações de Crédito do Banco Central - SCR referente ao seu representante legal.
+19.12.
+Considerando a Resolução 4.734, de 27 de junho de 2019 e Resolução 264 de 25 de novembro de 2022, emitidas pelo Banco Central do Brasil, o CLIENTE autoriza a INFINITEPAY a enviar informações sobre este Contrato para o sistema de registro de ativos financeiros operado por entidade registradora autorizada pelo Banco Central do Brasil com a finalidade da operação de desconto de recebíveis de arranjo de pagamento integrante do Sistema de Pagamentos Brasileiro (SPB) .
+20. Uso de Marcas
+20.1.
+O nome e as marcas da INFINITEPAY e/ou das BANDEIRAS, quando assim autorizado por estes e segundo o que dispõem as REGRAS DO MERCADO DE MEIOS DE PAGAMENTO, poderão ser utilizados pelo CLIENTE única e exclusivamente para promover a aceitação dos CARTÕES, respeitando as características das marcas, os direitos de propriedade intelectual e os regulamentos operacionais das BANDEIRAS com relação à matéria.
+20.1.1.
+Todo o material promocional utilizado e exibido pelo CLIENTE que contenha o nome ou a marca da INFINITEPAY deverá ser única e exclusivamente disponibilizado pela INFINITEPAY, vedada sua reprodução para outros fins que não a utilização dos serviços objeto deste CONTRATO, bem como seu desvirtuamento ou alteração, por qualquer forma.
+20.1.2.
+Os materiais promocionais disponibilizados pela INFINITEPAY deverão ser afixados pelo CLIENTE em local visível e de acordo com as orientações da INFINITEPAY.
+20.2.
+O CLIENTE autoriza que sua marca, nome e endereço sejam utilizados em funcionalidades da PLATAFORMA INFINITEPAY, inclusive o APLICATIVO; em ações de marketing; catálogos e outros materiais promocionais produzidos e disponibilizados pela INFINITEPAY, não fazendo jus o CLIENTE a qualquer retribuição em decorrência de tal utilização.
+21. Limitação de Responsabilidade
+21.1.
+Sem prejuízo das demais cláusulas e condições constantes deste CONTRATO, a INFINITEPAY não se responsabiliza por infração e/ou descumprimento de qualquer legislação aplicável ao CLIENTE em suas operações ou atividades.
+21.2.
+Caso sejam constatadas incoerências ou erro nas informações prestadas pelas registradoras, ou na hipótese em que estas forneçam instruções de forma equivocada, fica a  INFINITEPAY isenta de qualquer responsabilidade referente ao pagamento de tais recebíveis.
+21.3.
+A INFINITEPAY não será, em hipótese alguma, responsável por danos indiretos, lucros cessantes, perda de dados ou quaisquer outras perdas ou danos resultantes dos serviços prestados no âmbito deste CONTRATO, salvo em caso de culpa grave ou dolo da INFINITEPAY.
+21.4.
+O CLIENTE concorda que indenizará a INFINITEPAY contra quaisquer perdas, danos, custos e despesas incorridos pela INFINITEPAY em função da inobservância das condições aqui ajustadas para os serviços e de quaisquer outras instruções expedidas pela INFINITEPAY a respeito, bem como por ato, fato, ação ou omissão, decorrentes de culpa ou dolo do CLIENTE, seus sócios, representantes, diretores, assessores, empregados e/ou terceiros contratados.
+21.4.1.
+Caso a INFINITEPAY seja obrigada a arcar com qualquer penalidade que venha a ser aplicada pelas BANDEIRAS ou demais participantes dos arranjos de pagamento integrados pela INFINITEPAY, pela razão que for, poderá demandar ressarcimento imediato por parte do CLIENTE, mediante compensação ou demais formas previstas neste CONTRATO.
+21.4.2.
+O CLIENTE manterá a INFINITEPAY imune e indene de qualquer ação judicial, procedimento administrativo, aplicação de penalidade ou multa em desfavor da INFINITEPAY por ato causado por culpa ou dolo do CLIENTE, seus sócios, representantes, diretores, assessores, empregados e/ou terceiros contratados, devendo o CLIENTE arcar com as custas, despesas, honorários de advogado, taxas, emolumentos e demais relativas à defesa da INFINITEPAY, uma vez que essa seja citada para defender-se administrativamente ou em juízo, além de pagar, diretamente e em nome da INFINITEPAY, qualquer condenação a que esta esteja sujeita por decisão judicial ou administrativa.
+22. Práticas de Responsabilidade socioambiental e anticorrupção
+22.1.
+O CLIENTE e a INFINITEPAY comprometem-se a respeitar e a contribuir com o cumprimento dos Princípios Constitucionais, dos Direitos e Garantias Fundamentais e dos Direitos Sociais previstos na Constituição Federal, como: (i) repudiar atos de discriminação; (ii) respeitar o meio ambiente; (iii) não admitir o trabalho escravo e infantil; (iv) buscar um ambiente de trabalho seguro e saudável; (vi) repudiar atos de assédio moral e sexual.
+22.2.
+O compromisso relacionado à responsabilidade socioambiental será compartilhado entre o CLIENTE e a INFINITEPAY com seus fornecedores e parceiros;
+22.3.
+Fica garantido pelo CLIENTE e pela INFINITEPAY o cumprimento integral das leis de prevenção à corrupção e à lavagem de dinheiro previstas na legislação brasileira e, sempre que aplicável, aos tratados e convenções internacionais que tratem do tema, abstendo-se de praticar quaisquer atos que sejam lesivos à administração pública, nacional ou estrangeira.
+22.4.
+CLIENTE e INFINITEPAY devem conduzir seus negócios em conformidade com a legislação à qual estejam sujeitos no tocante à anticorrupção, adotando posturas, condutas e procedimentos de forma a buscar sua eliminação e agindo em contínuo compromisso.
+22.5.
+O CLIENTE deverá informar imediatamente à INFINITEPAY qualquer ato ou fato relacionado a violação de toda e qualquer obrigação anticorrupção que venha a ocorrer.
+23. Disposições Gerais
+23.1.
+É vedado ao CLIENTE ceder ou transferir a terceiros o presente CONTRATO ou qualquer dos direitos e obrigações dele decorrentes sem prévia e expressa anuência da INFINITEPAY.  A INFINITEPAY poderá ceder ou transferir, total ou parcialmente, os seus direitos e obrigações decorrentes deste CONTRATO para suas coligadas, controladas ou empresas do mesmo grupo econômico, independentemente de prévia notificação ao CLIENTE.
+23.2.
+Não havendo prévia e expressa anuência com a cessão ou transferência do presente CONTRATO, com seus direitos e obrigações, a INFINITEPAY não se responsabiliza pelo uso ou tentativa de uso do EQUIPAMENTO ou qualquer dos serviços por ela fornecidos por terceiros, e, por consequência, pela sua inoperância ou insucesso na utilização.
+23.3.
+A eventual tolerância ou transigência das partes em exigir o integral cumprimento das obrigações contratuais pela outra parte será considerada mera liberalidade, não constituindo novação, renúncia ou modificação do acordado, podendo a respectiva parte exigir, a qualquer tempo, o cumprimento integral de todas as obrigações previstas neste CONTRATO.
+23.4.
+A nulidade ou invalidade de qualquer das disposições deste CONTRATO não implicará a nulidade ou invalidade das demais cláusulas, que permanecerão válidas, produzindo plenos efeitos de direito.
+23.5.
+Este CONTRATO obriga as partes e seus respectivos sucessores a qualquer título.
+23.6.
+Caso o CLIENTE possua débitos ou créditos com outras empresas pertencentes ao mesmo grupo econômico da INFINITEPAY, ele desde já autoriza, de forma expressa, irrevogável e irretratável, que tais valores sejam objeto de compensação entre si. Essa compensação poderá envolver, inclusive, a utilização de recebíveis de titularidade do CLIENTE, por meio da imposição de ônus ou gravames. O CLIENTE renuncia, neste ato, a qualquer direito de contestação da operação ora aprovada.
+23.7.
+Nada neste CONTRATO poderá ser interpretado como formação de qualquer associação, joint venture, consórcio, sociedade ou qualquer outra forma de empreendimento comum entre a INFINITEPAY e o CLIENTE, não gerando o presente CONTRATO qualquer relação ou vínculo empregatício entre as partes e as pessoas a elas relacionadas direta ou indiretamente.
+‍
+23.8.
+Este CONTRATO constitui o acordo integral entre as partes e substitui todas as minutas, contratos, acordos ou entendimentos anteriores entre as partes, sejam por escrito ou verbalmente, relacionados ao seu objeto.  Em caso de conflito entre este CONTRATO e quaisquer outros documentos a ele relacionados, prevalecerão os termos deste CONTRATO, salvo previsão expressa em contrário.
+23.9.
+Este CONTRATO deve ser regido e interpretado de acordo com as leis brasileiras.
+23.10.
+A INFINITEPAY está disponível através dos seus canais oficiais de atendimento primário, todos os dias da semana. Para as demandas que não tiverem sido solucionadas através destes canais, o CLIENTE poderá entrar em contato com a Ouvidoria da INFINITEPAY, através do telefone 0800 591 7207, durante o seu horário de funcionamento, ou através do formulário disponível na página “Ouvidoria”, disponível 24 horas por dia, nos 7 dias da semana.
+23.11.
+Quaisquer conflitos decorrentes deste CONTRATO e documentos a ele relacionados deverão ser submetidos às cortes da Comarca de São Paulo, Estado de São Paulo.
+23.12.
+A assinatura eletrônica tem a mesma validade jurídica que o registro e autenticação feito em cartório. As partes renunciam à possibilidade de exigir a troca, envio ou entrega das cópias originais (não eletrônicas) assinadas do instrumento, bem como renunciam ao direito de recusar ou contestar a validade das assinaturas eletrônicas, até o limite máximo permitido pela legislação aplicável.
+CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVIÇOS LTDA.
