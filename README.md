@@ -28,6 +28,10 @@ cp .env.example .env  # then edit as needed
 ```bash
 uvicorn app.main:app --reload
 ```
+- UI (Streamlit, run in a second terminal):
+```bash
+streamlit run ui/streamlit_app.py
+```
 - Docker:
 ```bash
 docker build -t agent-swarm .
@@ -35,6 +39,7 @@ docker run -p 8000:8000 --env-file .env agent-swarm
 ```
 
 Open the API docs at `http://localhost:8000/docs`.
+Open the UI at `http://localhost:8501`.
 
 ### Configuration
 Set variables in `.env` (see `.env.example`):
